@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "_id": {
+        "$oid": "5c6ebf1e46582314180b4218"
+      },
+      "UserName": "pruzic@navent.com",
+      "NormalizedUserName": "PRUZIC@NAVENT.COM",
+      "SecurityStamp": "BBVV4KAOK5DWQL7LUJPZCHI3HXT3TQBK",
+      "Email": "pruzic@navent.com",
+      "NormalizedEmail": "PRUZIC@NAVENT.COM",
+      "EmailConfirmed": false,
+      "PhoneNumber": null,
+      "PhoneNumberConfirmed": false,
+      "TwoFactorEnabled": false,
+      "LockoutEndDateUtc": null,
+      "LockoutEnabled": true,
+      "AccessFailedCount": 0,
+      "AuthenticatorKey": null,
+      "PasswordHash": "AQAAAAEAACcQAAAAEGmHnXIv677ZDXD9HkEvj1vICtdMhdfuBYw745kDnrvXYPA+jnucoPfZ9hlfqaLZsg==",
+      "Roles": [],
+      "Claims": [],
+      "Logins": [],
+      "Tokens": [],
+      "RecoveryCodes": []
+    },
+    {
+      "_id": {
+        "$oid": "5c6ebf3646582314180b4219"
+      },
+      "UserName": "balonso@navent.com",
+      "NormalizedUserName": "BALONSO@NAVENT.COM",
+      "SecurityStamp": "33GU6HAHYT3T47S27Y5KQQ6FK4Y5FYEH",
+      "Email": "balonso@navent.com",
+      "NormalizedEmail": "BALONSO@NAVENT.COM",
+      "EmailConfirmed": false,
+      "PhoneNumber": null,
+      "PhoneNumberConfirmed": false,
+      "TwoFactorEnabled": false,
+      "LockoutEndDateUtc": null,
+      "LockoutEnabled": true,
+      "AccessFailedCount": 0,
+      "AuthenticatorKey": null,
+      "PasswordHash": "AQAAAAEAACcQAAAAEN7LkgniwQQC3P3KdWqVBvqWfowDeemNmmTE1JVeU0pzPs2p8uJ8BfM2+CwHmnRFOw==",
+      "Roles": [],
+      "Claims": [],
+      "Logins": [],
+      "Tokens": [],
+      "RecoveryCodes": []
+    },
+    {
+      "_id": {
+        "$oid": "5c6efe8246582314180b4238"
+      },
+      "UserName": "ymarchetti@navent.com",
+      "NormalizedUserName": "YMARCHETTI@NAVENT.COM",
+      "SecurityStamp": "RBBNPHXUGJCO3AROFXNYXNUT7RQU65LW",
+      "Email": "ymarchetti@navent.com",
+      "NormalizedEmail": "YMARCHETTI@NAVENT.COM",
+      "EmailConfirmed": false,
+      "PhoneNumber": null,
+      "PhoneNumberConfirmed": false,
+      "TwoFactorEnabled": false,
+      "LockoutEndDateUtc": null,
+      "LockoutEnabled": true,
+      "AccessFailedCount": 0,
+      "AuthenticatorKey": null,
+      "PasswordHash": "AQAAAAEAACcQAAAAEJl1bjQC+j9ugUiIxN3RyLb8G/xRG3yqKSCjj5qSdEa78SyAqKeQLHbLUW61A5LQVg==",
+      "Roles": [],
+      "Claims": [],
+      "Logins": [],
+      "Tokens": [],
+      "RecoveryCodes": []
+    },
+    {
+      "_id": {
+        "$oid": "5c817a484bfadf0260c19eda"
+      },
+      "UserName": "frtomaz@navent.com",
+      "NormalizedUserName": "FRTOMAZ@NAVENT.COM",
+      "SecurityStamp": "6QS3IBSYRD63GIWOG66V7SUARMULV7V2",
+      "Email": "frtomaz@navent.com",
+      "NormalizedEmail": "FRTOMAZ@NAVENT.COM",
+      "EmailConfirmed": false,
+      "PhoneNumber": null,
+      "PhoneNumberConfirmed": false,
+      "TwoFactorEnabled": false,
+      "LockoutEndDateUtc": null,
+      "LockoutEnabled": true,
+      "AccessFailedCount": 0,
+      "AuthenticatorKey": null,
+      "PasswordHash": "AQAAAAEAACcQAAAAEHcR1GqEXQipE84lT4hR6OHeEd/Roko1D1GBbrnYtvRi+vSjerb2dDawtR6Xiztx6A==",
+      "Roles": [],
+      "Claims": [],
+      "Logins": [],
+      "Tokens": [],
+      "RecoveryCodes": []
+    },
+    {
+      "_id": {
+        "$oid": "5c817a7f4bfadf0260c2b7d6"
+      },
+      "UserName": "aizarra@navent.com",
+      "NormalizedUserName": "AIZARRA@NAVENT.COM",
+      "SecurityStamp": "XPKKP2IVUEGTRNZYVMGLXO4USTJJMWJU",
+      "Email": "aizarra@navent.com",
+      "NormalizedEmail": "AIZARRA@NAVENT.COM",
+      "EmailConfirmed": false,
+      "PhoneNumber": null,
+      "PhoneNumberConfirmed": false,
+      "TwoFactorEnabled": false,
+      "LockoutEndDateUtc": null,
+      "LockoutEnabled": true,
+      "AccessFailedCount": 0,
+      "AuthenticatorKey": null,
+      "PasswordHash": "AQAAAAEAACcQAAAAEA4NFAX66mwwWhA/g2UYwk/sSR4wHkaduPxBI1PN5YUs+cUWIt7M7VRF63PMmx1dOQ==",
+      "Roles": [],
+      "Claims": [],
+      "Logins": [],
+      "Tokens": [],
+      "RecoveryCodes": []
+    },
+    {
+      "_id": {
+        "$oid": "5c8a6f4b9d48921410bdf86d"
+      },
+      "UserName": "performance@navent.com",
+      "NormalizedUserName": "PERFORMANCE@NAVENT.COM",
+      "SecurityStamp": "GVVLVFA2F5BH5SWVR6YDTBD4VP27FM3I",
+      "Email": "performance@navent.com",
+      "NormalizedEmail": "PERFORMANCE@NAVENT.COM",
+      "EmailConfirmed": false,
+      "PhoneNumber": null,
+      "PhoneNumberConfirmed": false,
+      "TwoFactorEnabled": false,
+      "LockoutEndDateUtc": null,
+      "LockoutEnabled": true,
+      "AccessFailedCount": 0,
+      "AuthenticatorKey": null,
+      "PasswordHash": "AQAAAAEAACcQAAAAEGZxGSVMKYeP5TEDo+5KTv0NQlOGd2TP69EvG9Pj8quoqegBAK7rA+x3r0GQbvGdkA==",
+      "Roles": [],
+      "Claims": [],
+      "Logins": [],
+      "Tokens": [],
+      "RecoveryCodes": []
+    }
+  ]
+}
