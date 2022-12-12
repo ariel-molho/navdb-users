@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "id": 0,
       "_id": {
         "$oid": "5c6ebf1e46582314180b4218"
       },
@@ -25,6 +26,7 @@
       "RecoveryCodes": []
     },
     {
+      "id": 1,
       "_id": {
         "$oid": "5c6ebf3646582314180b4219"
       },
@@ -49,6 +51,7 @@
       "RecoveryCodes": []
     },
     {
+      "id": 2,
       "_id": {
         "$oid": "5c6efe8246582314180b4238"
       },
@@ -73,6 +76,7 @@
       "RecoveryCodes": []
     },
     {
+      "id": 3,
       "_id": {
         "$oid": "5c817a484bfadf0260c19eda"
       },
@@ -97,6 +101,7 @@
       "RecoveryCodes": []
     },
     {
+      "id": 4,
       "_id": {
         "$oid": "5c817a7f4bfadf0260c2b7d6"
       },
@@ -121,6 +126,7 @@
       "RecoveryCodes": []
     },
     {
+      "id": 5,
       "_id": {
         "$oid": "5c8a6f4b9d48921410bdf86d"
       },
